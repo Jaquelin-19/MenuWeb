@@ -1,0 +1,278 @@
+html {
+    margin: 0px;
+    height: 130%;
+    background-image: linear-gradient(to bottom right, RGB(180, 0, 1), RGB(255, 26, 26));
+
+}
+
+
+/*        Texto        */
+
+
+.tituloP{
+    font-size: 50px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;  
+    top: 35px;
+    left:27%;
+    right: 27%;
+    position:absolute;
+}
+
+
+.tituloB0{
+    font-size: 15px;
+}
+
+.subB0{
+    font-size: 12px;
+    text-align: left;
+}
+
+.tituloB1{
+    font-size: 15px;
+}
+
+.subB1{
+    font-size: 12px;
+    text-align: left;
+}
+
+.tituloB2{
+    font-size: 15px;
+}
+
+.subB2{
+    font-size: 12px;
+    text-align: left;
+}
+
+.tituloB3{
+    font-size: 15px;
+}
+
+.subB3{
+    font-size: 12px;
+    text-align: left;
+}
+
+.tituloB4{
+    font-size: 15px;
+}
+
+.subB4{
+    font-size: 12px;
+    text-align: left;
+}
+
+.tituloB5{
+    font-size: 15px;
+}
+
+.subB5{
+    font-size: 12px;
+    text-align: left;
+}
+
+.titulo1{
+    font-size: 15px;
+}
+
+.sub1{
+    font-size: 12px;
+    text-align: left;
+}
+
+.titulo2{
+    font-size: 15px;
+}
+
+.sub2{
+    font-size: 12px;
+    text-align: left;
+}
+
+.titulo3{
+    font-size: 15px;
+}
+
+.sub3{
+    font-size: 12px;
+    text-align: left;
+}
+
+.titulo4{
+    font-size: 15px;
+}
+
+.sub4{
+    font-size: 12px;
+    text-align: left;
+}
+
+
+/*       Botones     */
+
+
+
+.forniteB{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+
+}
+
+.apexB{
+    position: absolute;
+    top: 35%;
+    left: 41%;
+
+}
+
+.vampireB{
+    position: absolute;
+    top: 35%;
+    left: 60%;
+}
+
+.boton2{
+    height: 237px;
+}
+
+.rumB{
+    position: absolute;
+    top: 35%;
+    left: 78%;
+}
+
+.codB{
+    position: absolute;
+    top: 35%;
+    left: 23%;
+}
+
+.nbB{
+    position: absolute;
+    top: 80%;
+    left: 5%;
+}
+
+.boton5{
+    height: 237px;
+}
+
+.uno{
+    position: absolute;
+    top: 80%;
+    left: 23%;
+}
+
+.boton01{
+    height: 237px;
+}
+
+.dos{
+    position: absolute;
+    top: 80%;
+    left: 41%;
+}
+
+.boton02{
+    height: 237px;
+}
+
+.tres{
+    position: absolute;
+    top: 80%;
+    left: 60%;
+}
+
+.boton03{
+    height: 237px;
+}
+
+.cuatro{
+    position: absolute;
+    top: 80%;
+    left: 78%;
+}
+
+.boton04{
+    height: 237px;
+}
+
+
+/*       Imagenes       */
+
+
+
+.imagenB0{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagenB1{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagenB2{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+   
+.imagenB3{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagenB4{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+    
+.imagenB5{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagen1{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagen2{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagen3{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
+
+.imagen4{
+    width: 200px;
+    height: 100px;
+    top: 690px;
+    right: 120px;
+}
